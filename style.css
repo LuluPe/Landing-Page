@@ -24,7 +24,7 @@ p {
 .second_p {
 	margin-up:  90 px;
 	margin-bottom: 50px;
-	text-shadow: 1px 1px 2px lightgrey;
+	text-shadow: 1px 1px 2px grey;
 }
 
 .button {
